@@ -13,7 +13,7 @@ Before running the CPED program, some prerequisite packages and environments nee
 
 Please use the following command to run the CPED program:
 
-> python examples/flow_hdf5_d4rl.py --env='halfcheetah-medium-v2' --policy\_lr=1e-4 --model_type='nice' 
+> python cped\_code/examples/flow\_hdf5\_d4rl.py --env='halfcheetah-medium-v2' --policy\_lr=1e-4 --model\_type='nice' 
 
 where *env* refers to a d4rl environment, *policy_lr* is the policy learning rate, *model_type* is the type of flow-gan model.
 
