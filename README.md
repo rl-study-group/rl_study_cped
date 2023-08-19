@@ -1,1 +1,2 @@
-# rl_study_cped: this is the source code for offline rl study
+# CPED: Constrained Policy Optimization with Explicit Behavior Density For Offline Reinforcement Learning
+## This is the source code for offline rl study
