@@ -22,7 +22,7 @@ where *env* refers to the d4rl environment, *policy_lr* is the policy learning r
 * Due to the tight timeline for organizing the CPED code and uploading to github, some test code hasn't been completely removed. We will make an effort to tidy up all the code as soon as possible.
 * To provide a clearer demonstration of CPED's performance, the following is a performance comparison among CPED, SPOT and BEAR for Halfcheetah-medium task. 
 
-![Performance Comparison](https://github.com/rl-study-group/rl_study_cped/blob/main/figures/compare.png)
+![Performance Comparison](https://github.com/rl-study-group/rl_study_cped/blob/main/figures/compare.png =100x100) 
 
 
 
